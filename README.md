@@ -24,6 +24,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Backtracking</strong></summary>
 
 - [17. Letter Combinations of a Phone Number.md](Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
+- [22. Generate Parentheses.md](Backtracking/22.%20Generate%20Parentheses.md)
 
 </details>
 
@@ -45,6 +46,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Dynamic Programming</strong></summary>
 
 - [10. Regular Expression Matching.md](Dynamic%20Programming/10.%20Regular%20Expression%20Matching.md)
+- [22. Generate Parentheses.md](Dynamic%20Programming/22.%20Generate%20Parentheses.md)
 - [5. Longest Palindromic Substring.md](Dynamic%20Programming/5.%20Longest%20Palindromic%20Substring.md)
 
 </details>
@@ -72,6 +74,7 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [19. Remove Nth Node From End of List.md](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [2. Add Two Numbers.md](Linked%20List/2.%20Add%20Two%20Numbers.md)
+- [21. Merge Two Sorted Lists.md](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
 
 </details>
 
@@ -91,6 +94,7 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [10. Regular Expression Matching.md](Recursion/10.%20Regular%20Expression%20Matching.md)
 - [2. Add Two Numbers.md](Recursion/2.%20Add%20Two%20Numbers.md)
+- [21. Merge Two Sorted Lists.md](Recursion/21.%20Merge%20Two%20Sorted%20Lists.md)
 
 </details>
 
@@ -126,6 +130,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [14. Longest Common Prefix.md](String/14.%20Longest%20Common%20Prefix.md)
 - [17. Letter Combinations of a Phone Number.md](String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [20. Valid Parentheses.md](String/20.%20Valid%20Parentheses.md)
+- [22. Generate Parentheses.md](String/22.%20Generate%20Parentheses.md)
 - [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [5. Longest Palindromic Substring.md](String/5.%20Longest%20Palindromic%20Substring.md)
 - [6. Zigzag Conversion.md](String/6.%20Zigzag%20Conversion.md)
