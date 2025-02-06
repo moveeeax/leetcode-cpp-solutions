@@ -12,44 +12,222 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Array</strong></summary>
 
 - [1. Two Sum.md](Array/1.%20Two%20Sum.md)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal.md](Array/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal.md](Array/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+- [108. Convert Sorted Array to Binary Search Tree.md](Array/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 - [11. Container With Most Water.md](Array/11.%20Container%20With%20Most%20Water.md)
+- [118. Pascal's Triangle.md](Array/118.%20Pascal's%20Triangle.md)
+- [119. Pascal's Triangle II.md](Array/119.%20Pascal's%20Triangle%20II.md)
+- [120. Triangle.md](Array/120.%20Triangle.md)
+- [121. Best Time to Buy and Sell Stock.md](Array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+- [122. Best Time to Buy and Sell Stock II.md](Array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+- [123. Best Time to Buy and Sell Stock III.md](Array/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)
+- [128. Longest Consecutive Sequence.md](Array/128.%20Longest%20Consecutive%20Sequence.md)
+- [130. Surrounded Regions.md](Array/130.%20Surrounded%20Regions.md)
+- [134. Gas Station.md](Array/134.%20Gas%20Station.md)
+- [135. Candy.md](Array/135.%20Candy.md)
+- [136. Single Number.md](Array/136.%20Single%20Number.md)
+- [137. Single Number II.md](Array/137.%20Single%20Number%20II.md)
 - [15. 3Sum.md](Array/15.%203Sum.md)
 - [16. 3Sum Closest.md](Array/16.%203Sum%20Closest.md)
 - [18. 4Sum.md](Array/18.%204Sum.md)
 - [26. Remove Duplicates from Sorted Array.md](Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 - [27. Remove Element.md](Array/27.%20Remove%20Element.md)
 - [31. Next Permutation.md](Array/31.%20Next%20Permutation.md)
+- [33. Search in Rotated Sorted Array.md](Array/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+- [34. Find First and Last Position of Element in Sorted Array.md](Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+- [35. Search Insert Position.md](Array/35.%20Search%20Insert%20Position.md)
+- [36. Valid Sudoku.md](Array/36.%20Valid%20Sudoku.md)
+- [37. Sudoku Solver.md](Array/37.%20Sudoku%20Solver.md)
+- [39. Combination Sum.md](Array/39.%20Combination%20Sum.md)
 - [4. Median of Two Sorted Arrays.md](Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+- [40. Combination Sum II.md](Array/40.%20Combination%20Sum%20II.md)
+- [41. First Missing Positive.md](Array/41.%20First%20Missing%20Positive.md)
+- [42. Trapping Rain Water.md](Array/42.%20Trapping%20Rain%20Water.md)
+- [45. Jump Game II.md](Array/45.%20Jump%20Game%20II.md)
+- [46. Permutations.md](Array/46.%20Permutations.md)
+- [47. Permutations II.md](Array/47.%20Permutations%20II.md)
+- [48. Rotate Image.md](Array/48.%20Rotate%20Image.md)
+- [49. Group Anagrams.md](Array/49.%20Group%20Anagrams.md)
+- [51. N-Queens.md](Array/51.%20N-Queens.md)
+- [53. Maximum Subarray.md](Array/53.%20Maximum%20Subarray.md)
+- [54. Spiral Matrix.md](Array/54.%20Spiral%20Matrix.md)
+- [55. Jump Game.md](Array/55.%20Jump%20Game.md)
+- [56. Merge Intervals.md](Array/56.%20Merge%20Intervals.md)
+- [57. Insert Interval.md](Array/57.%20Insert%20Interval.md)
+- [59. Spiral Matrix II.md](Array/59.%20Spiral%20Matrix%20II.md)
+- [63. Unique Paths II.md](Array/63.%20Unique%20Paths%20II.md)
+- [64. Minimum Path Sum.md](Array/64.%20Minimum%20Path%20Sum.md)
+- [66. Plus One.md](Array/66.%20Plus%20One.md)
+- [68. Text Justification.md](Array/68.%20Text%20Justification.md)
+- [73. Set Matrix Zeroes.md](Array/73.%20Set%20Matrix%20Zeroes.md)
+- [74. Search a 2D Matrix.md](Array/74.%20Search%20a%202D%20Matrix.md)
+- [75. Sort Colors.md](Array/75.%20Sort%20Colors.md)
+- [78. Subsets.md](Array/78.%20Subsets.md)
+- [79. Word Search.md](Array/79.%20Word%20Search.md)
+- [80. Remove Duplicates from Sorted Array II.md](Array/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)
+- [81. Search in Rotated Sorted Array II.md](Array/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
+- [84. Largest Rectangle in Histogram.md](Array/84.%20Largest%20Rectangle%20in%20Histogram.md)
+- [85. Maximal Rectangle.md](Array/85.%20Maximal%20Rectangle.md)
+- [88. Merge Sorted Array.md](Array/88.%20Merge%20Sorted%20Array.md)
+- [90. Subsets II.md](Array/90.%20Subsets%20II.md)
 
 </details>
 
 <details>
 <summary><strong>Backtracking</strong></summary>
 
+- [113. Path Sum II.md](Backtracking/113.%20Path%20Sum%20II.md)
+- [126. Word Ladder II.md](Backtracking/126.%20Word%20Ladder%20II.md)
+- [131. Palindrome Partitioning.md](Backtracking/131.%20Palindrome%20Partitioning.md)
 - [17. Letter Combinations of a Phone Number.md](Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [22. Generate Parentheses.md](Backtracking/22.%20Generate%20Parentheses.md)
+- [37. Sudoku Solver.md](Backtracking/37.%20Sudoku%20Solver.md)
+- [39. Combination Sum.md](Backtracking/39.%20Combination%20Sum.md)
+- [40. Combination Sum II.md](Backtracking/40.%20Combination%20Sum%20II.md)
+- [46. Permutations.md](Backtracking/46.%20Permutations.md)
+- [47. Permutations II.md](Backtracking/47.%20Permutations%20II.md)
+- [51. N-Queens.md](Backtracking/51.%20N-Queens.md)
+- [52. N-Queens II.md](Backtracking/52.%20N-Queens%20II.md)
+- [77. Combinations.md](Backtracking/77.%20Combinations.md)
+- [78. Subsets.md](Backtracking/78.%20Subsets.md)
+- [79. Word Search.md](Backtracking/79.%20Word%20Search.md)
+- [89. Gray Code.md](Backtracking/89.%20Gray%20Code.md)
+- [90. Subsets II.md](Backtracking/90.%20Subsets%20II.md)
+- [93. Restore IP Addresses.md](Backtracking/93.%20Restore%20IP%20Addresses.md)
+- [95. Unique Binary Search Trees II.md](Backtracking/95.%20Unique%20Binary%20Search%20Trees%20II.md)
 
 </details>
 
 <details>
 <summary><strong>Binary Search</strong></summary>
 
+- [33. Search in Rotated Sorted Array.md](Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+- [34. Find First and Last Position of Element in Sorted Array.md](Binary%20Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+- [35. Search Insert Position.md](Binary%20Search/35.%20Search%20Insert%20Position.md)
 - [4. Median of Two Sorted Arrays.md](Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+- [69. Sqrt(x).md](Binary%20Search/69.%20Sqrt(x).md)
+- [74. Search a 2D Matrix.md](Binary%20Search/74.%20Search%20a%202D%20Matrix.md)
+- [81. Search in Rotated Sorted Array II.md](Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
+
+</details>
+
+<details>
+<summary><strong>Binary Search Tree</strong></summary>
+
+- [108. Convert Sorted Array to Binary Search Tree.md](Binary%20Search%20Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+- [109. Convert Sorted List to Binary Search Tree.md](Binary%20Search%20Tree/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+- [95. Unique Binary Search Trees II.md](Binary%20Search%20Tree/95.%20Unique%20Binary%20Search%20Trees%20II.md)
+- [96. Unique Binary Search Trees.md](Binary%20Search%20Tree/96.%20Unique%20Binary%20Search%20Trees.md)
+- [98. Validate Binary Search Tree.md](Binary%20Search%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
+- [99. Recover Binary Search Tree.md](Binary%20Search%20Tree/99.%20Recover%20Binary%20Search%20Tree.md)
+
+</details>
+
+<details>
+<summary><strong>Binary Tree</strong></summary>
+
+- [100. Same Tree.md](Binary%20Tree/100.%20Same%20Tree.md)
+- [101. Symmetric Tree.md](Binary%20Tree/101.%20Symmetric%20Tree.md)
+- [102. Binary Tree Level Order Traversal.md](Binary%20Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+- [103. Binary Tree Zigzag Level Order Traversal.md](Binary%20Tree/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
+- [104. Maximum Depth of Binary Tree.md](Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal.md](Binary%20Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal.md](Binary%20Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+- [107. Binary Tree Level Order Traversal II.md](Binary%20Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
+- [108. Convert Sorted Array to Binary Search Tree.md](Binary%20Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+- [109. Convert Sorted List to Binary Search Tree.md](Binary%20Tree/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+- [110. Balanced Binary Tree.md](Binary%20Tree/110.%20Balanced%20Binary%20Tree.md)
+- [111. Minimum Depth of Binary Tree.md](Binary%20Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
+- [112. Path Sum.md](Binary%20Tree/112.%20Path%20Sum.md)
+- [113. Path Sum II.md](Binary%20Tree/113.%20Path%20Sum%20II.md)
+- [114. Flatten Binary Tree to Linked List.md](Binary%20Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+- [116. Populating Next Right Pointers in Each Node.md](Binary%20Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+- [117. Populating Next Right Pointers in Each Node II.md](Binary%20Tree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](Binary%20Tree/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](Binary%20Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
+- [94. Binary Tree Inorder Traversal.md](Binary%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md)
+- [95. Unique Binary Search Trees II.md](Binary%20Tree/95.%20Unique%20Binary%20Search%20Trees%20II.md)
+- [96. Unique Binary Search Trees.md](Binary%20Tree/96.%20Unique%20Binary%20Search%20Trees.md)
+- [98. Validate Binary Search Tree.md](Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree.md)
+- [99. Recover Binary Search Tree.md](Binary%20Tree/99.%20Recover%20Binary%20Search%20Tree.md)
 
 </details>
 
 <details>
 <summary><strong>Bit Manipulation</strong></summary>
 
+- [136. Single Number.md](Bit%20Manipulation/136.%20Single%20Number.md)
+- [137. Single Number II.md](Bit%20Manipulation/137.%20Single%20Number%20II.md)
 - [29. Divide Two Integers.md](Bit%20Manipulation/29.%20Divide%20Two%20Integers.md)
+- [67. Add Binary.md](Bit%20Manipulation/67.%20Add%20Binary.md)
+- [78. Subsets.md](Bit%20Manipulation/78.%20Subsets.md)
+- [89. Gray Code.md](Bit%20Manipulation/89.%20Gray%20Code.md)
+- [90. Subsets II.md](Bit%20Manipulation/90.%20Subsets%20II.md)
+
+</details>
+
+<details>
+<summary><strong>Breadth-First Search</strong></summary>
+
+- [100. Same Tree.md](Breadth-First%20Search/100.%20Same%20Tree.md)
+- [101. Symmetric Tree.md](Breadth-First%20Search/101.%20Symmetric%20Tree.md)
+- [102. Binary Tree Level Order Traversal.md](Breadth-First%20Search/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+- [103. Binary Tree Zigzag Level Order Traversal.md](Breadth-First%20Search/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
+- [104. Maximum Depth of Binary Tree.md](Breadth-First%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+- [107. Binary Tree Level Order Traversal II.md](Breadth-First%20Search/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
+- [111. Minimum Depth of Binary Tree.md](Breadth-First%20Search/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
+- [112. Path Sum.md](Breadth-First%20Search/112.%20Path%20Sum.md)
+- [116. Populating Next Right Pointers in Each Node.md](Breadth-First%20Search/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+- [117. Populating Next Right Pointers in Each Node II.md](Breadth-First%20Search/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [126. Word Ladder II.md](Breadth-First%20Search/126.%20Word%20Ladder%20II.md)
+- [127. Word Ladder.md](Breadth-First%20Search/127.%20Word%20Ladder.md)
+- [130. Surrounded Regions.md](Breadth-First%20Search/130.%20Surrounded%20Regions.md)
+- [133. Clone Graph.md](Breadth-First%20Search/133.%20Clone%20Graph.md)
+
+</details>
+
+<details>
+<summary><strong>Combinatorics</strong></summary>
+
+- [62. Unique Paths.md](Combinatorics/62.%20Unique%20Paths.md)
+
+</details>
+
+<details>
+<summary><strong>Depth-First Search</strong></summary>
+
+- [100. Same Tree.md](Depth-First%20Search/100.%20Same%20Tree.md)
+- [101. Symmetric Tree.md](Depth-First%20Search/101.%20Symmetric%20Tree.md)
+- [104. Maximum Depth of Binary Tree.md](Depth-First%20Search/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+- [110. Balanced Binary Tree.md](Depth-First%20Search/110.%20Balanced%20Binary%20Tree.md)
+- [111. Minimum Depth of Binary Tree.md](Depth-First%20Search/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
+- [112. Path Sum.md](Depth-First%20Search/112.%20Path%20Sum.md)
+- [113. Path Sum II.md](Depth-First%20Search/113.%20Path%20Sum%20II.md)
+- [114. Flatten Binary Tree to Linked List.md](Depth-First%20Search/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+- [116. Populating Next Right Pointers in Each Node.md](Depth-First%20Search/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+- [117. Populating Next Right Pointers in Each Node II.md](Depth-First%20Search/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](Depth-First%20Search/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](Depth-First%20Search/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
+- [130. Surrounded Regions.md](Depth-First%20Search/130.%20Surrounded%20Regions.md)
+- [133. Clone Graph.md](Depth-First%20Search/133.%20Clone%20Graph.md)
+- [79. Word Search.md](Depth-First%20Search/79.%20Word%20Search.md)
+- [94. Binary Tree Inorder Traversal.md](Depth-First%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.md)
+- [98. Validate Binary Search Tree.md](Depth-First%20Search/98.%20Validate%20Binary%20Search%20Tree.md)
+- [99. Recover Binary Search Tree.md](Depth-First%20Search/99.%20Recover%20Binary%20Search%20Tree.md)
 
 </details>
 
 <details>
 <summary><strong>Divide and Conquer</strong></summary>
 
+- [105. Construct Binary Tree from Preorder and Inorder Traversal.md](Divide%20and%20Conquer/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal.md](Divide%20and%20Conquer/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+- [108. Convert Sorted Array to Binary Search Tree.md](Divide%20and%20Conquer/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+- [109. Convert Sorted List to Binary Search Tree.md](Divide%20and%20Conquer/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
 - [23. Merge k Sorted Lists.md](Divide%20and%20Conquer/23.%20Merge%20k%20Sorted%20Lists.md)
 - [4. Median of Two Sorted Arrays.md](Divide%20and%20Conquer/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+- [53. Maximum Subarray.md](Divide%20and%20Conquer/53.%20Maximum%20Subarray.md)
 
 </details>
 
@@ -57,8 +235,42 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Dynamic Programming</strong></summary>
 
 - [10. Regular Expression Matching.md](Dynamic%20Programming/10.%20Regular%20Expression%20Matching.md)
+- [115. Distinct Subsequences.md](Dynamic%20Programming/115.%20Distinct%20Subsequences.md)
+- [118. Pascal's Triangle.md](Dynamic%20Programming/118.%20Pascal's%20Triangle.md)
+- [119. Pascal's Triangle II.md](Dynamic%20Programming/119.%20Pascal's%20Triangle%20II.md)
+- [120. Triangle.md](Dynamic%20Programming/120.%20Triangle.md)
+- [121. Best Time to Buy and Sell Stock.md](Dynamic%20Programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+- [122. Best Time to Buy and Sell Stock II.md](Dynamic%20Programming/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+- [123. Best Time to Buy and Sell Stock III.md](Dynamic%20Programming/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)
+- [124. Binary Tree Maximum Path Sum.md](Dynamic%20Programming/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [131. Palindrome Partitioning.md](Dynamic%20Programming/131.%20Palindrome%20Partitioning.md)
+- [132. Palindrome Partitioning II.md](Dynamic%20Programming/132.%20Palindrome%20Partitioning%20II.md)
 - [22. Generate Parentheses.md](Dynamic%20Programming/22.%20Generate%20Parentheses.md)
+- [32. Longest Valid Parentheses.md](Dynamic%20Programming/32.%20Longest%20Valid%20Parentheses.md)
+- [42. Trapping Rain Water.md](Dynamic%20Programming/42.%20Trapping%20Rain%20Water.md)
+- [44. Wildcard Matching.md](Dynamic%20Programming/44.%20Wildcard%20Matching.md)
+- [45. Jump Game II.md](Dynamic%20Programming/45.%20Jump%20Game%20II.md)
 - [5. Longest Palindromic Substring.md](Dynamic%20Programming/5.%20Longest%20Palindromic%20Substring.md)
+- [53. Maximum Subarray.md](Dynamic%20Programming/53.%20Maximum%20Subarray.md)
+- [55. Jump Game.md](Dynamic%20Programming/55.%20Jump%20Game.md)
+- [62. Unique Paths.md](Dynamic%20Programming/62.%20Unique%20Paths.md)
+- [63. Unique Paths II.md](Dynamic%20Programming/63.%20Unique%20Paths%20II.md)
+- [64. Minimum Path Sum.md](Dynamic%20Programming/64.%20Minimum%20Path%20Sum.md)
+- [70. Climbing Stairs.md](Dynamic%20Programming/70.%20Climbing%20Stairs.md)
+- [72. Edit Distance.md](Dynamic%20Programming/72.%20Edit%20Distance.md)
+- [85. Maximal Rectangle.md](Dynamic%20Programming/85.%20Maximal%20Rectangle.md)
+- [87. Scramble String.md](Dynamic%20Programming/87.%20Scramble%20String.md)
+- [91. Decode Ways.md](Dynamic%20Programming/91.%20Decode%20Ways.md)
+- [95. Unique Binary Search Trees II.md](Dynamic%20Programming/95.%20Unique%20Binary%20Search%20Trees%20II.md)
+- [96. Unique Binary Search Trees.md](Dynamic%20Programming/96.%20Unique%20Binary%20Search%20Trees.md)
+- [97. Interleaving String.md](Dynamic%20Programming/97.%20Interleaving%20String.md)
+
+</details>
+
+<details>
+<summary><strong>Graph</strong></summary>
+
+- [133. Clone Graph.md](Graph/133.%20Clone%20Graph.md)
 
 </details>
 
@@ -66,6 +278,12 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Greedy</strong></summary>
 
 - [11. Container With Most Water.md](Greedy/11.%20Container%20With%20Most%20Water.md)
+- [122. Best Time to Buy and Sell Stock II.md](Greedy/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+- [134. Gas Station.md](Greedy/134.%20Gas%20Station.md)
+- [135. Candy.md](Greedy/135.%20Candy.md)
+- [44. Wildcard Matching.md](Greedy/44.%20Wildcard%20Matching.md)
+- [45. Jump Game II.md](Greedy/45.%20Jump%20Game%20II.md)
+- [55. Jump Game.md](Greedy/55.%20Jump%20Game.md)
 
 </details>
 
@@ -73,11 +291,24 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Hash Table</strong></summary>
 
 - [1. Two Sum.md](Hash%20Table/1.%20Two%20Sum.md)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal.md](Hash%20Table/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal.md](Hash%20Table/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
 - [12. Integer to Roman.md](Hash%20Table/12.%20Integer%20to%20Roman.md)
+- [126. Word Ladder II.md](Hash%20Table/126.%20Word%20Ladder%20II.md)
+- [127. Word Ladder.md](Hash%20Table/127.%20Word%20Ladder.md)
+- [128. Longest Consecutive Sequence.md](Hash%20Table/128.%20Longest%20Consecutive%20Sequence.md)
 - [13. Roman to Integer.md](Hash%20Table/13.%20Roman%20to%20Integer.md)
+- [133. Clone Graph.md](Hash%20Table/133.%20Clone%20Graph.md)
+- [138. Copy List with Random Pointer.md](Hash%20Table/138.%20Copy%20List%20with%20Random%20Pointer.md)
 - [17. Letter Combinations of a Phone Number.md](Hash%20Table/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [3. Longest Substring Without Repeating Characters.md](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Hash%20Table/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
+- [36. Valid Sudoku.md](Hash%20Table/36.%20Valid%20Sudoku.md)
+- [37. Sudoku Solver.md](Hash%20Table/37.%20Sudoku%20Solver.md)
+- [41. First Missing Positive.md](Hash%20Table/41.%20First%20Missing%20Positive.md)
+- [49. Group Anagrams.md](Hash%20Table/49.%20Group%20Anagrams.md)
+- [73. Set Matrix Zeroes.md](Hash%20Table/73.%20Set%20Matrix%20Zeroes.md)
+- [76. Minimum Window Substring.md](Hash%20Table/76.%20Minimum%20Window%20Substring.md)
 
 </details>
 
@@ -91,12 +322,22 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Linked List</strong></summary>
 
+- [109. Convert Sorted List to Binary Search Tree.md](Linked%20List/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+- [114. Flatten Binary Tree to Linked List.md](Linked%20List/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+- [116. Populating Next Right Pointers in Each Node.md](Linked%20List/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+- [117. Populating Next Right Pointers in Each Node II.md](Linked%20List/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [138. Copy List with Random Pointer.md](Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.md)
 - [19. Remove Nth Node From End of List.md](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [2. Add Two Numbers.md](Linked%20List/2.%20Add%20Two%20Numbers.md)
 - [21. Merge Two Sorted Lists.md](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
 - [23. Merge k Sorted Lists.md](Linked%20List/23.%20Merge%20k%20Sorted%20Lists.md)
 - [24. Swap Nodes in Pairs.md](Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md)
 - [25. Reverse Nodes in k-Group.md](Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.md)
+- [61. Rotate List.md](Linked%20List/61.%20Rotate%20List.md)
+- [82. Remove Duplicates from Sorted List II.md](Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
+- [83. Remove Duplicates from Sorted List.md](Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
+- [86. Partition List.md](Linked%20List/86.%20Partition%20List.md)
+- [92. Reverse Linked List II.md](Linked%20List/92.%20Reverse%20Linked%20List%20II.md)
 
 </details>
 
@@ -107,8 +348,44 @@ Each category contains problems and their solutions. Click on a section to expan
 - [13. Roman to Integer.md](Math/13.%20Roman%20to%20Integer.md)
 - [2. Add Two Numbers.md](Math/2.%20Add%20Two%20Numbers.md)
 - [29. Divide Two Integers.md](Math/29.%20Divide%20Two%20Integers.md)
+- [43. Multiply Strings.md](Math/43.%20Multiply%20Strings.md)
+- [48. Rotate Image.md](Math/48.%20Rotate%20Image.md)
+- [50. Pow(x, n).md](Math/50.%20Pow(x,%20n).md)
+- [60. Permutation Sequence.md](Math/60.%20Permutation%20Sequence.md)
+- [62. Unique Paths.md](Math/62.%20Unique%20Paths.md)
+- [66. Plus One.md](Math/66.%20Plus%20One.md)
+- [67. Add Binary.md](Math/67.%20Add%20Binary.md)
+- [69. Sqrt(x).md](Math/69.%20Sqrt(x).md)
 - [7. Reverse Integer.md](Math/7.%20Reverse%20Integer.md)
+- [70. Climbing Stairs.md](Math/70.%20Climbing%20Stairs.md)
+- [89. Gray Code.md](Math/89.%20Gray%20Code.md)
 - [9. Palindrome Number.md](Math/9.%20Palindrome%20Number.md)
+- [96. Unique Binary Search Trees.md](Math/96.%20Unique%20Binary%20Search%20Trees.md)
+
+</details>
+
+<details>
+<summary><strong>Matrix</strong></summary>
+
+- [130. Surrounded Regions.md](Matrix/130.%20Surrounded%20Regions.md)
+- [36. Valid Sudoku.md](Matrix/36.%20Valid%20Sudoku.md)
+- [37. Sudoku Solver.md](Matrix/37.%20Sudoku%20Solver.md)
+- [48. Rotate Image.md](Matrix/48.%20Rotate%20Image.md)
+- [54. Spiral Matrix.md](Matrix/54.%20Spiral%20Matrix.md)
+- [59. Spiral Matrix II.md](Matrix/59.%20Spiral%20Matrix%20II.md)
+- [63. Unique Paths II.md](Matrix/63.%20Unique%20Paths%20II.md)
+- [64. Minimum Path Sum.md](Matrix/64.%20Minimum%20Path%20Sum.md)
+- [73. Set Matrix Zeroes.md](Matrix/73.%20Set%20Matrix%20Zeroes.md)
+- [74. Search a 2D Matrix.md](Matrix/74.%20Search%20a%202D%20Matrix.md)
+- [79. Word Search.md](Matrix/79.%20Word%20Search.md)
+- [85. Maximal Rectangle.md](Matrix/85.%20Maximal%20Rectangle.md)
+
+</details>
+
+<details>
+<summary><strong>Memoization</strong></summary>
+
+- [70. Climbing Stairs.md](Memoization/70.%20Climbing%20Stairs.md)
 
 </details>
 
@@ -120,6 +397,15 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Monotonic Stack</strong></summary>
+
+- [42. Trapping Rain Water.md](Monotonic%20Stack/42.%20Trapping%20Rain%20Water.md)
+- [84. Largest Rectangle in Histogram.md](Monotonic%20Stack/84.%20Largest%20Rectangle%20in%20Histogram.md)
+- [85. Maximal Rectangle.md](Monotonic%20Stack/85.%20Maximal%20Rectangle.md)
+
+</details>
+
+<details>
 <summary><strong>Recursion</strong></summary>
 
 - [10. Regular Expression Matching.md](Recursion/10.%20Regular%20Expression%20Matching.md)
@@ -127,6 +413,20 @@ Each category contains problems and their solutions. Click on a section to expan
 - [21. Merge Two Sorted Lists.md](Recursion/21.%20Merge%20Two%20Sorted%20Lists.md)
 - [24. Swap Nodes in Pairs.md](Recursion/24.%20Swap%20Nodes%20in%20Pairs.md)
 - [25. Reverse Nodes in k-Group.md](Recursion/25.%20Reverse%20Nodes%20in%20k-Group.md)
+- [44. Wildcard Matching.md](Recursion/44.%20Wildcard%20Matching.md)
+- [50. Pow(x, n).md](Recursion/50.%20Pow(x,%20n).md)
+- [60. Permutation Sequence.md](Recursion/60.%20Permutation%20Sequence.md)
+
+</details>
+
+<details>
+<summary><strong>Simulation</strong></summary>
+
+- [43. Multiply Strings.md](Simulation/43.%20Multiply%20Strings.md)
+- [54. Spiral Matrix.md](Simulation/54.%20Spiral%20Matrix.md)
+- [59. Spiral Matrix II.md](Simulation/59.%20Spiral%20Matrix%20II.md)
+- [67. Add Binary.md](Simulation/67.%20Add%20Binary.md)
+- [68. Text Justification.md](Simulation/68.%20Text%20Justification.md)
 
 </details>
 
@@ -135,6 +435,7 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [3. Longest Substring Without Repeating Characters.md](Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Sliding%20Window/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
+- [76. Minimum Window Substring.md](Sliding%20Window/76.%20Minimum%20Window%20Substring.md)
 
 </details>
 
@@ -144,13 +445,25 @@ Each category contains problems and their solutions. Click on a section to expan
 - [15. 3Sum.md](Sorting/15.%203Sum.md)
 - [16. 3Sum Closest.md](Sorting/16.%203Sum%20Closest.md)
 - [18. 4Sum.md](Sorting/18.%204Sum.md)
+- [47. Permutations II.md](Sorting/47.%20Permutations%20II.md)
+- [49. Group Anagrams.md](Sorting/49.%20Group%20Anagrams.md)
+- [56. Merge Intervals.md](Sorting/56.%20Merge%20Intervals.md)
+- [75. Sort Colors.md](Sorting/75.%20Sort%20Colors.md)
+- [88. Merge Sorted Array.md](Sorting/88.%20Merge%20Sorted%20Array.md)
 
 </details>
 
 <details>
 <summary><strong>Stack</strong></summary>
 
+- [114. Flatten Binary Tree to Linked List.md](Stack/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
 - [20. Valid Parentheses.md](Stack/20.%20Valid%20Parentheses.md)
+- [32. Longest Valid Parentheses.md](Stack/32.%20Longest%20Valid%20Parentheses.md)
+- [42. Trapping Rain Water.md](Stack/42.%20Trapping%20Rain%20Water.md)
+- [71. Simplify Path.md](Stack/71.%20Simplify%20Path.md)
+- [84. Largest Rectangle in Histogram.md](Stack/84.%20Largest%20Rectangle%20in%20Histogram.md)
+- [85. Maximal Rectangle.md](Stack/85.%20Maximal%20Rectangle.md)
+- [94. Binary Tree Inorder Traversal.md](Stack/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 
 </details>
 
@@ -158,8 +471,14 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>String</strong></summary>
 
 - [10. Regular Expression Matching.md](String/10.%20Regular%20Expression%20Matching.md)
+- [115. Distinct Subsequences.md](String/115.%20Distinct%20Subsequences.md)
 - [12. Integer to Roman.md](String/12.%20Integer%20to%20Roman.md)
+- [125. Valid Palindrome.md](String/125.%20Valid%20Palindrome.md)
+- [126. Word Ladder II.md](String/126.%20Word%20Ladder%20II.md)
+- [127. Word Ladder.md](String/127.%20Word%20Ladder.md)
 - [13. Roman to Integer.md](String/13.%20Roman%20to%20Integer.md)
+- [131. Palindrome Partitioning.md](String/131.%20Palindrome%20Partitioning.md)
+- [132. Palindrome Partitioning II.md](String/132.%20Palindrome%20Partitioning%20II.md)
 - [14. Longest Common Prefix.md](String/14.%20Longest%20Common%20Prefix.md)
 - [17. Letter Combinations of a Phone Number.md](String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [20. Valid Parentheses.md](String/20.%20Valid%20Parentheses.md)
@@ -167,9 +486,26 @@ Each category contains problems and their solutions. Click on a section to expan
 - [28. Find the Index of the First Occurrence in a String.md](String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
 - [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](String/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
+- [32. Longest Valid Parentheses.md](String/32.%20Longest%20Valid%20Parentheses.md)
+- [38. Count and Say.md](String/38.%20Count%20and%20Say.md)
+- [43. Multiply Strings.md](String/43.%20Multiply%20Strings.md)
+- [44. Wildcard Matching.md](String/44.%20Wildcard%20Matching.md)
+- [49. Group Anagrams.md](String/49.%20Group%20Anagrams.md)
 - [5. Longest Palindromic Substring.md](String/5.%20Longest%20Palindromic%20Substring.md)
+- [58. Length of Last Word.md](String/58.%20Length%20of%20Last%20Word.md)
 - [6. Zigzag Conversion.md](String/6.%20Zigzag%20Conversion.md)
+- [65. Valid Number.md](String/65.%20Valid%20Number.md)
+- [67. Add Binary.md](String/67.%20Add%20Binary.md)
+- [68. Text Justification.md](String/68.%20Text%20Justification.md)
+- [71. Simplify Path.md](String/71.%20Simplify%20Path.md)
+- [72. Edit Distance.md](String/72.%20Edit%20Distance.md)
+- [76. Minimum Window Substring.md](String/76.%20Minimum%20Window%20Substring.md)
+- [79. Word Search.md](String/79.%20Word%20Search.md)
 - [8. String to Integer (atoi).md](String/8.%20String%20to%20Integer%20(atoi).md)
+- [87. Scramble String.md](String/87.%20Scramble%20String.md)
+- [91. Decode Ways.md](String/91.%20Decode%20Ways.md)
+- [93. Restore IP Addresses.md](String/93.%20Restore%20IP%20Addresses.md)
+- [97. Interleaving String.md](String/97.%20Interleaving%20String.md)
 
 </details>
 
@@ -177,6 +513,36 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>String Matching</strong></summary>
 
 - [28. Find the Index of the First Occurrence in a String.md](String%20Matching/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
+
+</details>
+
+<details>
+<summary><strong>Tree</strong></summary>
+
+- [100. Same Tree.md](Tree/100.%20Same%20Tree.md)
+- [101. Symmetric Tree.md](Tree/101.%20Symmetric%20Tree.md)
+- [102. Binary Tree Level Order Traversal.md](Tree/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+- [103. Binary Tree Zigzag Level Order Traversal.md](Tree/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
+- [104. Maximum Depth of Binary Tree.md](Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal.md](Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal.md](Tree/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+- [107. Binary Tree Level Order Traversal II.md](Tree/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
+- [108. Convert Sorted Array to Binary Search Tree.md](Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
+- [109. Convert Sorted List to Binary Search Tree.md](Tree/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
+- [110. Balanced Binary Tree.md](Tree/110.%20Balanced%20Binary%20Tree.md)
+- [111. Minimum Depth of Binary Tree.md](Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
+- [112. Path Sum.md](Tree/112.%20Path%20Sum.md)
+- [113. Path Sum II.md](Tree/113.%20Path%20Sum%20II.md)
+- [114. Flatten Binary Tree to Linked List.md](Tree/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+- [116. Populating Next Right Pointers in Each Node.md](Tree/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+- [117. Populating Next Right Pointers in Each Node II.md](Tree/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+- [124. Binary Tree Maximum Path Sum.md](Tree/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+- [129. Sum Root to Leaf Numbers.md](Tree/129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
+- [94. Binary Tree Inorder Traversal.md](Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md)
+- [95. Unique Binary Search Trees II.md](Tree/95.%20Unique%20Binary%20Search%20Trees%20II.md)
+- [96. Unique Binary Search Trees.md](Tree/96.%20Unique%20Binary%20Search%20Trees.md)
+- [98. Validate Binary Search Tree.md](Tree/98.%20Validate%20Binary%20Search%20Tree.md)
+- [99. Recover Binary Search Tree.md](Tree/99.%20Recover%20Binary%20Search%20Tree.md)
 
 </details>
 
@@ -191,6 +557,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Two Pointers</strong></summary>
 
 - [11. Container With Most Water.md](Two%20Pointers/11.%20Container%20With%20Most%20Water.md)
+- [125. Valid Palindrome.md](Two%20Pointers/125.%20Valid%20Palindrome.md)
 - [15. 3Sum.md](Two%20Pointers/15.%203Sum.md)
 - [16. 3Sum Closest.md](Two%20Pointers/16.%203Sum%20Closest.md)
 - [18. 4Sum.md](Two%20Pointers/18.%204Sum.md)
@@ -199,7 +566,22 @@ Each category contains problems and their solutions. Click on a section to expan
 - [27. Remove Element.md](Two%20Pointers/27.%20Remove%20Element.md)
 - [28. Find the Index of the First Occurrence in a String.md](Two%20Pointers/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
 - [31. Next Permutation.md](Two%20Pointers/31.%20Next%20Permutation.md)
+- [42. Trapping Rain Water.md](Two%20Pointers/42.%20Trapping%20Rain%20Water.md)
 - [5. Longest Palindromic Substring.md](Two%20Pointers/5.%20Longest%20Palindromic%20Substring.md)
+- [61. Rotate List.md](Two%20Pointers/61.%20Rotate%20List.md)
+- [75. Sort Colors.md](Two%20Pointers/75.%20Sort%20Colors.md)
+- [80. Remove Duplicates from Sorted Array II.md](Two%20Pointers/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)
+- [82. Remove Duplicates from Sorted List II.md](Two%20Pointers/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
+- [86. Partition List.md](Two%20Pointers/86.%20Partition%20List.md)
+- [88. Merge Sorted Array.md](Two%20Pointers/88.%20Merge%20Sorted%20Array.md)
+
+</details>
+
+<details>
+<summary><strong>Union Find</strong></summary>
+
+- [128. Longest Consecutive Sequence.md](Union%20Find/128.%20Longest%20Consecutive%20Sequence.md)
+- [130. Surrounded Regions.md](Union%20Find/130.%20Surrounded%20Regions.md)
 
 </details>
 
