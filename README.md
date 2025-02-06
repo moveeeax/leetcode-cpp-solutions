@@ -28,6 +28,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [135. Candy.md](Array/135.%20Candy.md)
 - [136. Single Number.md](Array/136.%20Single%20Number.md)
 - [137. Single Number II.md](Array/137.%20Single%20Number%20II.md)
+- [139. Word Break.md](Array/139.%20Word%20Break.md)
 - [15. 3Sum.md](Array/15.%203Sum.md)
 - [16. 3Sum Closest.md](Array/16.%203Sum%20Closest.md)
 - [18. 4Sum.md](Array/18.%204Sum.md)
@@ -245,6 +246,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [124. Binary Tree Maximum Path Sum.md](Dynamic%20Programming/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
 - [131. Palindrome Partitioning.md](Dynamic%20Programming/131.%20Palindrome%20Partitioning.md)
 - [132. Palindrome Partitioning II.md](Dynamic%20Programming/132.%20Palindrome%20Partitioning%20II.md)
+- [139. Word Break.md](Dynamic%20Programming/139.%20Word%20Break.md)
 - [22. Generate Parentheses.md](Dynamic%20Programming/22.%20Generate%20Parentheses.md)
 - [32. Longest Valid Parentheses.md](Dynamic%20Programming/32.%20Longest%20Valid%20Parentheses.md)
 - [42. Trapping Rain Water.md](Dynamic%20Programming/42.%20Trapping%20Rain%20Water.md)
@@ -300,6 +302,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [13. Roman to Integer.md](Hash%20Table/13.%20Roman%20to%20Integer.md)
 - [133. Clone Graph.md](Hash%20Table/133.%20Clone%20Graph.md)
 - [138. Copy List with Random Pointer.md](Hash%20Table/138.%20Copy%20List%20with%20Random%20Pointer.md)
+- [139. Word Break.md](Hash%20Table/139.%20Word%20Break.md)
 - [17. Letter Combinations of a Phone Number.md](Hash%20Table/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [3. Longest Substring Without Repeating Characters.md](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Hash%20Table/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
@@ -385,6 +388,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Memoization</strong></summary>
 
+- [139. Word Break.md](Memoization/139.%20Word%20Break.md)
 - [70. Climbing Stairs.md](Memoization/70.%20Climbing%20Stairs.md)
 
 </details>
@@ -479,6 +483,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [13. Roman to Integer.md](String/13.%20Roman%20to%20Integer.md)
 - [131. Palindrome Partitioning.md](String/131.%20Palindrome%20Partitioning.md)
 - [132. Palindrome Partitioning II.md](String/132.%20Palindrome%20Partitioning%20II.md)
+- [139. Word Break.md](String/139.%20Word%20Break.md)
 - [14. Longest Common Prefix.md](String/14.%20Longest%20Common%20Prefix.md)
 - [17. Letter Combinations of a Phone Number.md](String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [20. Valid Parentheses.md](String/20.%20Valid%20Parentheses.md)
@@ -549,6 +554,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Trie</strong></summary>
 
+- [139. Word Break.md](Trie/139.%20Word%20Break.md)
 - [14. Longest Common Prefix.md](Trie/14.%20Longest%20Common%20Prefix.md)
 
 </details>
