@@ -48,6 +48,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [189. Rotate Array.md](Array/189.%20Rotate%20Array.md)
 - [198. House Robber.md](Array/198.%20House%20Robber.md)
 - [200. Number of Islands.md](Array/200.%20Number%20of%20Islands.md)
+- [204. Count Primes.md](Array/204.%20Count%20Primes.md)
+- [209. Minimum Size Subarray Sum.md](Array/209.%20Minimum%20Size%20Subarray%20Sum.md)
 - [26. Remove Duplicates from Sorted Array.md](Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 - [27. Remove Element.md](Array/27.%20Remove%20Element.md)
 - [31. Next Permutation.md](Array/31.%20Next%20Permutation.md)
@@ -124,6 +126,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [154. Find Minimum in Rotated Sorted Array II.md](Binary%20Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)
 - [162. Find Peak Element.md](Binary%20Search/162.%20Find%20Peak%20Element.md)
 - [167. Two Sum II - Input Array Is Sorted.md](Binary%20Search/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
+- [209. Minimum Size Subarray Sum.md](Binary%20Search/209.%20Minimum%20Size%20Subarray%20Sum.md)
 - [33. Search in Rotated Sorted Array.md](Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 - [34. Find First and Last Position of Element in Sorted Array.md](Binary%20Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 - [35. Search Insert Position.md](Binary%20Search/35.%20Search%20Insert%20Position.md)
@@ -189,6 +192,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [187. Repeated DNA Sequences.md](Bit%20Manipulation/187.%20Repeated%20DNA%20Sequences.md)
 - [190. Reverse Bits.md](Bit%20Manipulation/190.%20Reverse%20Bits.md)
 - [191. Number of 1 Bits.md](Bit%20Manipulation/191.%20Number%20of%201%20Bits.md)
+- [201. Bitwise AND of Numbers Range.md](Bit%20Manipulation/201.%20Bitwise%20AND%20of%20Numbers%20Range.md)
 - [29. Divide Two Integers.md](Bit%20Manipulation/29.%20Divide%20Two%20Integers.md)
 - [67. Add Binary.md](Bit%20Manipulation/67.%20Add%20Binary.md)
 - [78. Subsets.md](Bit%20Manipulation/78.%20Subsets.md)
@@ -216,6 +220,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [133. Clone Graph.md](Breadth-First%20Search/133.%20Clone%20Graph.md)
 - [199. Binary Tree Right Side View.md](Breadth-First%20Search/199.%20Binary%20Tree%20Right%20Side%20View.md)
 - [200. Number of Islands.md](Breadth-First%20Search/200.%20Number%20of%20Islands.md)
+- [207. Course Schedule.md](Breadth-First%20Search/207.%20Course%20Schedule.md)
 
 </details>
 
@@ -279,6 +284,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [145. Binary Tree Postorder Traversal.md](Depth-First%20Search/145.%20Binary%20Tree%20Postorder%20Traversal.md)
 - [199. Binary Tree Right Side View.md](Depth-First%20Search/199.%20Binary%20Tree%20Right%20Side%20View.md)
 - [200. Number of Islands.md](Depth-First%20Search/200.%20Number%20of%20Islands.md)
+- [207. Course Schedule.md](Depth-First%20Search/207.%20Course%20Schedule.md)
 - [79. Word Search.md](Depth-First%20Search/79.%20Word%20Search.md)
 - [94. Binary Tree Inorder Traversal.md](Depth-First%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 - [98. Validate Binary Search Tree.md](Depth-First%20Search/98.%20Validate%20Binary%20Search%20Tree.md)
@@ -292,6 +298,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [146. LRU Cache.md](Design/146.%20LRU%20Cache.md)
 - [155. Min Stack.md](Design/155.%20Min%20Stack.md)
 - [173. Binary Search Tree Iterator.md](Design/173.%20Binary%20Search%20Tree%20Iterator.md)
+- [208. Implement Trie (Prefix Tree).md](Design/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 
 </details>
 
@@ -362,6 +369,13 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Enumeration</strong></summary>
+
+- [204. Count Primes.md](Enumeration/204.%20Count%20Primes.md)
+
+</details>
+
+<details>
 <summary><strong>Geometry</strong></summary>
 
 - [149. Max Points on a Line.md](Geometry/149.%20Max%20Points%20on%20a%20Line.md)
@@ -372,6 +386,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Graph</strong></summary>
 
 - [133. Clone Graph.md](Graph/133.%20Clone%20Graph.md)
+- [207. Course Schedule.md](Graph/207.%20Course%20Schedule.md)
 
 </details>
 
@@ -420,6 +435,9 @@ Each category contains problems and their solutions. Click on a section to expan
 - [169. Majority Element.md](Hash%20Table/169.%20Majority%20Element.md)
 - [17. Letter Combinations of a Phone Number.md](Hash%20Table/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [187. Repeated DNA Sequences.md](Hash%20Table/187.%20Repeated%20DNA%20Sequences.md)
+- [202. Happy Number.md](Hash%20Table/202.%20Happy%20Number.md)
+- [205. Isomorphic Strings.md](Hash%20Table/205.%20Isomorphic%20Strings.md)
+- [208. Implement Trie (Prefix Tree).md](Hash%20Table/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 - [3. Longest Substring Without Repeating Characters.md](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Hash%20Table/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
 - [36. Valid Sudoku.md](Hash%20Table/36.%20Valid%20Sudoku.md)
@@ -462,6 +480,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [160. Intersection of Two Linked Lists.md](Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.md)
 - [19. Remove Nth Node From End of List.md](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [2. Add Two Numbers.md](Linked%20List/2.%20Add%20Two%20Numbers.md)
+- [203. Remove Linked List Elements.md](Linked%20List/203.%20Remove%20Linked%20List%20Elements.md)
+- [206. Reverse Linked List.md](Linked%20List/206.%20Reverse%20Linked%20List.md)
 - [21. Merge Two Sorted Lists.md](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.md)
 - [23. Merge k Sorted Lists.md](Linked%20List/23.%20Merge%20k%20Sorted%20Lists.md)
 - [24. Swap Nodes in Pairs.md](Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md)
@@ -487,6 +507,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [172. Factorial Trailing Zeroes.md](Math/172.%20Factorial%20Trailing%20Zeroes.md)
 - [189. Rotate Array.md](Math/189.%20Rotate%20Array.md)
 - [2. Add Two Numbers.md](Math/2.%20Add%20Two%20Numbers.md)
+- [202. Happy Number.md](Math/202.%20Happy%20Number.md)
+- [204. Count Primes.md](Math/204.%20Count%20Primes.md)
 - [29. Divide Two Integers.md](Math/29.%20Divide%20Two%20Integers.md)
 - [43. Multiply Strings.md](Math/43.%20Multiply%20Strings.md)
 - [48. Rotate Image.md](Math/48.%20Rotate%20Image.md)
@@ -551,6 +573,20 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Number Theory</strong></summary>
+
+- [204. Count Primes.md](Number%20Theory/204.%20Count%20Primes.md)
+
+</details>
+
+<details>
+<summary><strong>Prefix Sum</strong></summary>
+
+- [209. Minimum Size Subarray Sum.md](Prefix%20Sum/209.%20Minimum%20Size%20Subarray%20Sum.md)
+
+</details>
+
+<details>
 <summary><strong>Radix Sort</strong></summary>
 
 - [164. Maximum Gap.md](Radix%20Sort/164.%20Maximum%20Gap.md)
@@ -563,6 +599,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [10. Regular Expression Matching.md](Recursion/10.%20Regular%20Expression%20Matching.md)
 - [143. Reorder List.md](Recursion/143.%20Reorder%20List.md)
 - [2. Add Two Numbers.md](Recursion/2.%20Add%20Two%20Numbers.md)
+- [203. Remove Linked List Elements.md](Recursion/203.%20Remove%20Linked%20List%20Elements.md)
+- [206. Reverse Linked List.md](Recursion/206.%20Reverse%20Linked%20List.md)
 - [21. Merge Two Sorted Lists.md](Recursion/21.%20Merge%20Two%20Sorted%20Lists.md)
 - [24. Swap Nodes in Pairs.md](Recursion/24.%20Swap%20Nodes%20in%20Pairs.md)
 - [25. Reverse Nodes in k-Group.md](Recursion/25.%20Reverse%20Nodes%20in%20k-Group.md)
@@ -604,6 +642,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Sliding Window</strong></summary>
 
 - [187. Repeated DNA Sequences.md](Sliding%20Window/187.%20Repeated%20DNA%20Sequences.md)
+- [209. Minimum Size Subarray Sum.md](Sliding%20Window/209.%20Minimum%20Size%20Subarray%20Sum.md)
 - [3. Longest Substring Without Repeating Characters.md](Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Sliding%20Window/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
 - [76. Minimum Window Substring.md](Sliding%20Window/76.%20Minimum%20Window%20Substring.md)
@@ -673,6 +712,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [179. Largest Number.md](String/179.%20Largest%20Number.md)
 - [187. Repeated DNA Sequences.md](String/187.%20Repeated%20DNA%20Sequences.md)
 - [20. Valid Parentheses.md](String/20.%20Valid%20Parentheses.md)
+- [205. Isomorphic Strings.md](String/205.%20Isomorphic%20Strings.md)
+- [208. Implement Trie (Prefix Tree).md](String/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 - [22. Generate Parentheses.md](String/22.%20Generate%20Parentheses.md)
 - [28. Find the Index of the First Occurrence in a String.md](String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
 - [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
@@ -704,6 +745,13 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>String Matching</strong></summary>
 
 - [28. Find the Index of the First Occurrence in a String.md](String%20Matching/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
+
+</details>
+
+<details>
+<summary><strong>Topological Sort</strong></summary>
+
+- [207. Course Schedule.md](Topological%20Sort/207.%20Course%20Schedule.md)
 
 </details>
 
@@ -747,6 +795,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [139. Word Break.md](Trie/139.%20Word%20Break.md)
 - [14. Longest Common Prefix.md](Trie/14.%20Longest%20Common%20Prefix.md)
 - [140. Word Break II.md](Trie/140.%20Word%20Break%20II.md)
+- [208. Implement Trie (Prefix Tree).md](Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 
 </details>
 
@@ -768,6 +817,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [18. 4Sum.md](Two%20Pointers/18.%204Sum.md)
 - [189. Rotate Array.md](Two%20Pointers/189.%20Rotate%20Array.md)
 - [19. Remove Nth Node From End of List.md](Two%20Pointers/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
+- [202. Happy Number.md](Two%20Pointers/202.%20Happy%20Number.md)
 - [26. Remove Duplicates from Sorted Array.md](Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 - [27. Remove Element.md](Two%20Pointers/27.%20Remove%20Element.md)
 - [28. Find the Index of the First Occurrence in a String.md](Two%20Pointers/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
