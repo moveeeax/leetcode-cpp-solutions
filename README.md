@@ -75,13 +75,47 @@ Each category contains problems and their solutions. Click on a section to expan
 - [287. Find the Duplicate Number.md](Array/287.%20Find%20the%20Duplicate%20Number.md)
 - [289. Game of Life.md](Array/289.%20Game%20of%20Life.md)
 - [300. Longest Increasing Subsequence.md](Array/300.%20Longest%20Increasing%20Subsequence.md)
+- [303. Range Sum Query - Immutable.md](Array/303.%20Range%20Sum%20Query%20-%20Immutable.md)
+- [304. Range Sum Query 2D - Immutable.md](Array/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)
+- [307. Range Sum Query - Mutable.md](Array/307.%20Range%20Sum%20Query%20-%20Mutable.md)
+- [309. Best Time to Buy and Sell Stock with Cooldown.md](Array/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)
 - [31. Next Permutation.md](Array/31.%20Next%20Permutation.md)
+- [312. Burst Balloons.md](Array/312.%20Burst%20Balloons.md)
+- [313. Super Ugly Number.md](Array/313.%20Super%20Ugly%20Number.md)
+- [315. Count of Smaller Numbers After Self.md](Array/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [318. Maximum Product of Word Lengths.md](Array/318.%20Maximum%20Product%20of%20Word%20Lengths.md)
+- [321. Create Maximum Number.md](Array/321.%20Create%20Maximum%20Number.md)
+- [322. Coin Change.md](Array/322.%20Coin%20Change.md)
+- [324. Wiggle Sort II.md](Array/324.%20Wiggle%20Sort%20II.md)
+- [327. Count of Range Sum.md](Array/327.%20Count%20of%20Range%20Sum.md)
+- [329. Longest Increasing Path in a Matrix.md](Array/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
 - [33. Search in Rotated Sorted Array.md](Array/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+- [330. Patching Array.md](Array/330.%20Patching%20Array.md)
+- [334. Increasing Triplet Subsequence.md](Array/334.%20Increasing%20Triplet%20Subsequence.md)
+- [335. Self Crossing.md](Array/335.%20Self%20Crossing.md)
+- [336. Palindrome Pairs.md](Array/336.%20Palindrome%20Pairs.md)
 - [34. Find First and Last Position of Element in Sorted Array.md](Array/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+- [347. Top K Frequent Elements.md](Array/347.%20Top%20K%20Frequent%20Elements.md)
+- [349. Intersection of Two Arrays.md](Array/349.%20Intersection%20of%20Two%20Arrays.md)
 - [35. Search Insert Position.md](Array/35.%20Search%20Insert%20Position.md)
+- [350. Intersection of Two Arrays II.md](Array/350.%20Intersection%20of%20Two%20Arrays%20II.md)
+- [354. Russian Doll Envelopes.md](Array/354.%20Russian%20Doll%20Envelopes.md)
 - [36. Valid Sudoku.md](Array/36.%20Valid%20Sudoku.md)
+- [363. Max Sum of Rectangle No Larger Than K.md](Array/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.md)
+- [368. Largest Divisible Subset.md](Array/368.%20Largest%20Divisible%20Subset.md)
 - [37. Sudoku Solver.md](Array/37.%20Sudoku%20Solver.md)
+- [373. Find K Pairs with Smallest Sums.md](Array/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.md)
+- [376. Wiggle Subsequence.md](Array/376.%20Wiggle%20Subsequence.md)
+- [377. Combination Sum IV.md](Array/377.%20Combination%20Sum%20IV.md)
+- [378. Kth Smallest Element in a Sorted Matrix.md](Array/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
+- [380. Insert Delete GetRandom O(1).md](Array/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed.md](Array/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md)
+- [384. Shuffle an Array.md](Array/384.%20Shuffle%20an%20Array.md)
 - [39. Combination Sum.md](Array/39.%20Combination%20Sum.md)
+- [391. Perfect Rectangle.md](Array/391.%20Perfect%20Rectangle.md)
+- [393. UTF-8 Validation.md](Array/393.%20UTF-8%20Validation.md)
+- [396. Rotate Function.md](Array/396.%20Rotate%20Function.md)
+- [399. Evaluate Division.md](Array/399.%20Evaluate%20Division.md)
 - [4. Median of Two Sorted Arrays.md](Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 - [40. Combination Sum II.md](Array/40.%20Combination%20Sum%20II.md)
 - [41. First Missing Positive.md](Array/41.%20First%20Missing%20Positive.md)
@@ -129,6 +163,9 @@ Each category contains problems and their solutions. Click on a section to expan
 - [22. Generate Parentheses.md](Backtracking/22.%20Generate%20Parentheses.md)
 - [257. Binary Tree Paths.md](Backtracking/257.%20Binary%20Tree%20Paths.md)
 - [282. Expression Add Operators.md](Backtracking/282.%20Expression%20Add%20Operators.md)
+- [301. Remove Invalid Parentheses.md](Backtracking/301.%20Remove%20Invalid%20Parentheses.md)
+- [306. Additive Number.md](Backtracking/306.%20Additive%20Number.md)
+- [357. Count Numbers with Unique Digits.md](Backtracking/357.%20Count%20Numbers%20with%20Unique%20Digits.md)
 - [37. Sudoku Solver.md](Backtracking/37.%20Sudoku%20Solver.md)
 - [39. Combination Sum.md](Backtracking/39.%20Combination%20Sum.md)
 - [40. Combination Sum II.md](Backtracking/40.%20Combination%20Sum%20II.md)
@@ -150,6 +187,9 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Binary Indexed Tree</strong></summary>
 
 - [218. The Skyline Problem.md](Binary%20Indexed%20Tree/218.%20The%20Skyline%20Problem.md)
+- [307. Range Sum Query - Mutable.md](Binary%20Indexed%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable.md)
+- [315. Count of Smaller Numbers After Self.md](Binary%20Indexed%20Tree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [327. Count of Range Sum.md](Binary%20Indexed%20Tree/327.%20Count%20of%20Range%20Sum.md)
 
 </details>
 
@@ -168,10 +208,21 @@ Each category contains problems and their solutions. Click on a section to expan
 - [278. First Bad Version.md](Binary%20Search/278.%20First%20Bad%20Version.md)
 - [287. Find the Duplicate Number.md](Binary%20Search/287.%20Find%20the%20Duplicate%20Number.md)
 - [300. Longest Increasing Subsequence.md](Binary%20Search/300.%20Longest%20Increasing%20Subsequence.md)
+- [315. Count of Smaller Numbers After Self.md](Binary%20Search/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [327. Count of Range Sum.md](Binary%20Search/327.%20Count%20of%20Range%20Sum.md)
 - [33. Search in Rotated Sorted Array.md](Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 - [34. Find First and Last Position of Element in Sorted Array.md](Binary%20Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+- [349. Intersection of Two Arrays.md](Binary%20Search/349.%20Intersection%20of%20Two%20Arrays.md)
 - [35. Search Insert Position.md](Binary%20Search/35.%20Search%20Insert%20Position.md)
+- [350. Intersection of Two Arrays II.md](Binary%20Search/350.%20Intersection%20of%20Two%20Arrays%20II.md)
+- [352. Data Stream as Disjoint Intervals.md](Binary%20Search/352.%20Data%20Stream%20as%20Disjoint%20Intervals.md)
+- [354. Russian Doll Envelopes.md](Binary%20Search/354.%20Russian%20Doll%20Envelopes.md)
+- [363. Max Sum of Rectangle No Larger Than K.md](Binary%20Search/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.md)
+- [367. Valid Perfect Square.md](Binary%20Search/367.%20Valid%20Perfect%20Square.md)
+- [374. Guess Number Higher or Lower.md](Binary%20Search/374.%20Guess%20Number%20Higher%20or%20Lower.md)
+- [378. Kth Smallest Element in a Sorted Matrix.md](Binary%20Search/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
 - [4. Median of Two Sorted Arrays.md](Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+- [400. Nth Digit.md](Binary%20Search/400.%20Nth%20Digit.md)
 - [69. Sqrt(x).md](Binary%20Search/69.%20Sqrt(x).md)
 - [74. Search a 2D Matrix.md](Binary%20Search/74.%20Search%20a%202D%20Matrix.md)
 - [81. Search in Rotated Sorted Array II.md](Binary%20Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
@@ -226,6 +277,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [236. Lowest Common Ancestor of a Binary Tree.md](Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 - [257. Binary Tree Paths.md](Binary%20Tree/257.%20Binary%20Tree%20Paths.md)
 - [297. Serialize and Deserialize Binary Tree.md](Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+- [331. Verify Preorder Serialization of a Binary Tree.md](Binary%20Tree/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md)
+- [337. House Robber III.md](Binary%20Tree/337.%20House%20Robber%20III.md)
 - [94. Binary Tree Inorder Traversal.md](Binary%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 - [95. Unique Binary Search Trees II.md](Binary%20Tree/95.%20Unique%20Binary%20Search%20Trees%20II.md)
 - [96. Unique Binary Search Trees.md](Binary%20Tree/96.%20Unique%20Binary%20Search%20Trees.md)
@@ -249,6 +302,13 @@ Each category contains problems and their solutions. Click on a section to expan
 - [268. Missing Number.md](Bit%20Manipulation/268.%20Missing%20Number.md)
 - [287. Find the Duplicate Number.md](Bit%20Manipulation/287.%20Find%20the%20Duplicate%20Number.md)
 - [29. Divide Two Integers.md](Bit%20Manipulation/29.%20Divide%20Two%20Integers.md)
+- [318. Maximum Product of Word Lengths.md](Bit%20Manipulation/318.%20Maximum%20Product%20of%20Word%20Lengths.md)
+- [338. Counting Bits.md](Bit%20Manipulation/338.%20Counting%20Bits.md)
+- [342. Power of Four.md](Bit%20Manipulation/342.%20Power%20of%20Four.md)
+- [371. Sum of Two Integers.md](Bit%20Manipulation/371.%20Sum%20of%20Two%20Integers.md)
+- [389. Find the Difference.md](Bit%20Manipulation/389.%20Find%20the%20Difference.md)
+- [393. UTF-8 Validation.md](Bit%20Manipulation/393.%20UTF-8%20Validation.md)
+- [397. Integer Replacement.md](Bit%20Manipulation/397.%20Integer%20Replacement.md)
 - [67. Add Binary.md](Bit%20Manipulation/67.%20Add%20Binary.md)
 - [78. Subsets.md](Bit%20Manipulation/78.%20Subsets.md)
 - [89. Gray Code.md](Bit%20Manipulation/89.%20Gray%20Code.md)
@@ -260,6 +320,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Brainteaser</strong></summary>
 
 - [292. Nim Game.md](Brainteaser/292.%20Nim%20Game.md)
+- [319. Bulb Switcher.md](Brainteaser/319.%20Bulb%20Switcher.md)
 
 </details>
 
@@ -287,6 +348,12 @@ Each category contains problems and their solutions. Click on a section to expan
 - [226. Invert Binary Tree.md](Breadth-First%20Search/226.%20Invert%20Binary%20Tree.md)
 - [279. Perfect Squares.md](Breadth-First%20Search/279.%20Perfect%20Squares.md)
 - [297. Serialize and Deserialize Binary Tree.md](Breadth-First%20Search/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+- [301. Remove Invalid Parentheses.md](Breadth-First%20Search/301.%20Remove%20Invalid%20Parentheses.md)
+- [310. Minimum Height Trees.md](Breadth-First%20Search/310.%20Minimum%20Height%20Trees.md)
+- [322. Coin Change.md](Breadth-First%20Search/322.%20Coin%20Change.md)
+- [329. Longest Increasing Path in a Matrix.md](Breadth-First%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+- [365. Water and Jug Problem.md](Breadth-First%20Search/365.%20Water%20and%20Jug%20Problem.md)
+- [399. Evaluate Division.md](Breadth-First%20Search/399.%20Evaluate%20Division.md)
 
 </details>
 
@@ -295,6 +362,7 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [164. Maximum Gap.md](Bucket%20Sort/164.%20Maximum%20Gap.md)
 - [220. Contains Duplicate III.md](Bucket%20Sort/220.%20Contains%20Duplicate%20III.md)
+- [347. Top K Frequent Elements.md](Bucket%20Sort/347.%20Top%20K%20Frequent%20Elements.md)
 
 </details>
 
@@ -311,6 +379,9 @@ Each category contains problems and their solutions. Click on a section to expan
 - [169. Majority Element.md](Counting/169.%20Majority%20Element.md)
 - [229. Majority Element II.md](Counting/229.%20Majority%20Element%20II.md)
 - [299. Bulls and Cows.md](Counting/299.%20Bulls%20and%20Cows.md)
+- [347. Top K Frequent Elements.md](Counting/347.%20Top%20K%20Frequent%20Elements.md)
+- [383. Ransom Note.md](Counting/383.%20Ransom%20Note.md)
+- [387. First Unique Character in a String.md](Counting/387.%20First%20Unique%20Character%20in%20a%20String.md)
 
 </details>
 
@@ -377,6 +448,16 @@ Each category contains problems and their solutions. Click on a section to expan
 - [236. Lowest Common Ancestor of a Binary Tree.md](Depth-First%20Search/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 - [257. Binary Tree Paths.md](Depth-First%20Search/257.%20Binary%20Tree%20Paths.md)
 - [297. Serialize and Deserialize Binary Tree.md](Depth-First%20Search/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+- [310. Minimum Height Trees.md](Depth-First%20Search/310.%20Minimum%20Height%20Trees.md)
+- [329. Longest Increasing Path in a Matrix.md](Depth-First%20Search/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+- [332. Reconstruct Itinerary.md](Depth-First%20Search/332.%20Reconstruct%20Itinerary.md)
+- [337. House Robber III.md](Depth-First%20Search/337.%20House%20Robber%20III.md)
+- [341. Flatten Nested List Iterator.md](Depth-First%20Search/341.%20Flatten%20Nested%20List%20Iterator.md)
+- [365. Water and Jug Problem.md](Depth-First%20Search/365.%20Water%20and%20Jug%20Problem.md)
+- [385. Mini Parser.md](Depth-First%20Search/385.%20Mini%20Parser.md)
+- [386. Lexicographical Numbers.md](Depth-First%20Search/386.%20Lexicographical%20Numbers.md)
+- [388. Longest Absolute File Path.md](Depth-First%20Search/388.%20Longest%20Absolute%20File%20Path.md)
+- [399. Evaluate Division.md](Depth-First%20Search/399.%20Evaluate%20Division.md)
 - [79. Word Search.md](Depth-First%20Search/79.%20Word%20Search.md)
 - [94. Binary Tree Inorder Traversal.md](Depth-First%20Search/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 - [98. Validate Binary Search Tree.md](Depth-First%20Search/98.%20Validate%20Binary%20Search%20Tree.md)
@@ -397,6 +478,15 @@ Each category contains problems and their solutions. Click on a section to expan
 - [284. Peeking Iterator.md](Design/284.%20Peeking%20Iterator.md)
 - [295. Find Median from Data Stream.md](Design/295.%20Find%20Median%20from%20Data%20Stream.md)
 - [297. Serialize and Deserialize Binary Tree.md](Design/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+- [303. Range Sum Query - Immutable.md](Design/303.%20Range%20Sum%20Query%20-%20Immutable.md)
+- [304. Range Sum Query 2D - Immutable.md](Design/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)
+- [307. Range Sum Query - Mutable.md](Design/307.%20Range%20Sum%20Query%20-%20Mutable.md)
+- [341. Flatten Nested List Iterator.md](Design/341.%20Flatten%20Nested%20List%20Iterator.md)
+- [352. Data Stream as Disjoint Intervals.md](Design/352.%20Data%20Stream%20as%20Disjoint%20Intervals.md)
+- [355. Design Twitter.md](Design/355.%20Design%20Twitter.md)
+- [380. Insert Delete GetRandom O(1).md](Design/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed.md](Design/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md)
+- [384. Shuffle an Array.md](Design/384.%20Shuffle%20an%20Array.md)
 
 </details>
 
@@ -415,6 +505,12 @@ Each category contains problems and their solutions. Click on a section to expan
 - [218. The Skyline Problem.md](Divide%20and%20Conquer/218.%20The%20Skyline%20Problem.md)
 - [23. Merge k Sorted Lists.md](Divide%20and%20Conquer/23.%20Merge%20k%20Sorted%20Lists.md)
 - [240. Search a 2D Matrix II.md](Divide%20and%20Conquer/240.%20Search%20a%202D%20Matrix%20II.md)
+- [315. Count of Smaller Numbers After Self.md](Divide%20and%20Conquer/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [324. Wiggle Sort II.md](Divide%20and%20Conquer/324.%20Wiggle%20Sort%20II.md)
+- [327. Count of Range Sum.md](Divide%20and%20Conquer/327.%20Count%20of%20Range%20Sum.md)
+- [347. Top K Frequent Elements.md](Divide%20and%20Conquer/347.%20Top%20K%20Frequent%20Elements.md)
+- [372. Super Pow.md](Divide%20and%20Conquer/372.%20Super%20Pow.md)
+- [395. Longest Substring with At Least K Repeating Characters.md](Divide%20and%20Conquer/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)
 - [4. Median of Two Sorted Arrays.md](Divide%20and%20Conquer/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 - [53. Maximum Subarray.md](Divide%20and%20Conquer/53.%20Maximum%20Subarray.md)
 
@@ -455,7 +551,24 @@ Each category contains problems and their solutions. Click on a section to expan
 - [264. Ugly Number II.md](Dynamic%20Programming/264.%20Ugly%20Number%20II.md)
 - [279. Perfect Squares.md](Dynamic%20Programming/279.%20Perfect%20Squares.md)
 - [300. Longest Increasing Subsequence.md](Dynamic%20Programming/300.%20Longest%20Increasing%20Subsequence.md)
+- [309. Best Time to Buy and Sell Stock with Cooldown.md](Dynamic%20Programming/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)
+- [312. Burst Balloons.md](Dynamic%20Programming/312.%20Burst%20Balloons.md)
+- [313. Super Ugly Number.md](Dynamic%20Programming/313.%20Super%20Ugly%20Number.md)
 - [32. Longest Valid Parentheses.md](Dynamic%20Programming/32.%20Longest%20Valid%20Parentheses.md)
+- [322. Coin Change.md](Dynamic%20Programming/322.%20Coin%20Change.md)
+- [329. Longest Increasing Path in a Matrix.md](Dynamic%20Programming/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+- [337. House Robber III.md](Dynamic%20Programming/337.%20House%20Robber%20III.md)
+- [338. Counting Bits.md](Dynamic%20Programming/338.%20Counting%20Bits.md)
+- [343. Integer Break.md](Dynamic%20Programming/343.%20Integer%20Break.md)
+- [354. Russian Doll Envelopes.md](Dynamic%20Programming/354.%20Russian%20Doll%20Envelopes.md)
+- [357. Count Numbers with Unique Digits.md](Dynamic%20Programming/357.%20Count%20Numbers%20with%20Unique%20Digits.md)
+- [368. Largest Divisible Subset.md](Dynamic%20Programming/368.%20Largest%20Divisible%20Subset.md)
+- [375. Guess Number Higher or Lower II.md](Dynamic%20Programming/375.%20Guess%20Number%20Higher%20or%20Lower%20II.md)
+- [376. Wiggle Subsequence.md](Dynamic%20Programming/376.%20Wiggle%20Subsequence.md)
+- [377. Combination Sum IV.md](Dynamic%20Programming/377.%20Combination%20Sum%20IV.md)
+- [392. Is Subsequence.md](Dynamic%20Programming/392.%20Is%20Subsequence.md)
+- [396. Rotate Function.md](Dynamic%20Programming/396.%20Rotate%20Function.md)
+- [397. Integer Replacement.md](Dynamic%20Programming/397.%20Integer%20Replacement.md)
 - [42. Trapping Rain Water.md](Dynamic%20Programming/42.%20Trapping%20Rain%20Water.md)
 - [44. Wildcard Matching.md](Dynamic%20Programming/44.%20Wildcard%20Matching.md)
 - [45. Jump Game II.md](Dynamic%20Programming/45.%20Jump%20Game%20II.md)
@@ -484,9 +597,17 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Eulerian Circuit</strong></summary>
+
+- [332. Reconstruct Itinerary.md](Eulerian%20Circuit/332.%20Reconstruct%20Itinerary.md)
+
+</details>
+
+<details>
 <summary><strong>Game Theory</strong></summary>
 
 - [292. Nim Game.md](Game%20Theory/292.%20Nim%20Game.md)
+- [375. Guess Number Higher or Lower II.md](Game%20Theory/375.%20Guess%20Number%20Higher%20or%20Lower%20II.md)
 
 </details>
 
@@ -495,6 +616,7 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [149. Max Points on a Line.md](Geometry/149.%20Max%20Points%20on%20a%20Line.md)
 - [223. Rectangle Area.md](Geometry/223.%20Rectangle%20Area.md)
+- [335. Self Crossing.md](Geometry/335.%20Self%20Crossing.md)
 
 </details>
 
@@ -504,6 +626,10 @@ Each category contains problems and their solutions. Click on a section to expan
 - [133. Clone Graph.md](Graph/133.%20Clone%20Graph.md)
 - [207. Course Schedule.md](Graph/207.%20Course%20Schedule.md)
 - [210. Course Schedule II.md](Graph/210.%20Course%20Schedule%20II.md)
+- [310. Minimum Height Trees.md](Graph/310.%20Minimum%20Height%20Trees.md)
+- [329. Longest Increasing Path in a Matrix.md](Graph/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+- [332. Reconstruct Itinerary.md](Graph/332.%20Reconstruct%20Itinerary.md)
+- [399. Evaluate Division.md](Graph/399.%20Evaluate%20Division.md)
 
 </details>
 
@@ -515,6 +641,13 @@ Each category contains problems and their solutions. Click on a section to expan
 - [134. Gas Station.md](Greedy/134.%20Gas%20Station.md)
 - [135. Candy.md](Greedy/135.%20Candy.md)
 - [179. Largest Number.md](Greedy/179.%20Largest%20Number.md)
+- [316. Remove Duplicate Letters.md](Greedy/316.%20Remove%20Duplicate%20Letters.md)
+- [321. Create Maximum Number.md](Greedy/321.%20Create%20Maximum%20Number.md)
+- [324. Wiggle Sort II.md](Greedy/324.%20Wiggle%20Sort%20II.md)
+- [330. Patching Array.md](Greedy/330.%20Patching%20Array.md)
+- [334. Increasing Triplet Subsequence.md](Greedy/334.%20Increasing%20Triplet%20Subsequence.md)
+- [376. Wiggle Subsequence.md](Greedy/376.%20Wiggle%20Subsequence.md)
+- [397. Integer Replacement.md](Greedy/397.%20Integer%20Replacement.md)
 - [44. Wildcard Matching.md](Greedy/44.%20Wildcard%20Matching.md)
 - [45. Jump Game II.md](Greedy/45.%20Jump%20Game%20II.md)
 - [55. Jump Game.md](Greedy/55.%20Jump%20Game.md)
@@ -566,8 +699,20 @@ Each category contains problems and their solutions. Click on a section to expan
 - [299. Bulls and Cows.md](Hash%20Table/299.%20Bulls%20and%20Cows.md)
 - [3. Longest Substring Without Repeating Characters.md](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Hash%20Table/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
+- [336. Palindrome Pairs.md](Hash%20Table/336.%20Palindrome%20Pairs.md)
+- [347. Top K Frequent Elements.md](Hash%20Table/347.%20Top%20K%20Frequent%20Elements.md)
+- [349. Intersection of Two Arrays.md](Hash%20Table/349.%20Intersection%20of%20Two%20Arrays.md)
+- [350. Intersection of Two Arrays II.md](Hash%20Table/350.%20Intersection%20of%20Two%20Arrays%20II.md)
+- [355. Design Twitter.md](Hash%20Table/355.%20Design%20Twitter.md)
 - [36. Valid Sudoku.md](Hash%20Table/36.%20Valid%20Sudoku.md)
 - [37. Sudoku Solver.md](Hash%20Table/37.%20Sudoku%20Solver.md)
+- [380. Insert Delete GetRandom O(1).md](Hash%20Table/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed.md](Hash%20Table/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md)
+- [383. Ransom Note.md](Hash%20Table/383.%20Ransom%20Note.md)
+- [387. First Unique Character in a String.md](Hash%20Table/387.%20First%20Unique%20Character%20in%20a%20String.md)
+- [389. Find the Difference.md](Hash%20Table/389.%20Find%20the%20Difference.md)
+- [395. Longest Substring with At Least K Repeating Characters.md](Hash%20Table/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)
+- [398. Random Pick Index.md](Hash%20Table/398.%20Random%20Pick%20Index.md)
 - [41. First Missing Positive.md](Hash%20Table/41.%20First%20Missing%20Positive.md)
 - [49. Group Anagrams.md](Hash%20Table/49.%20Group%20Anagrams.md)
 - [73. Set Matrix Zeroes.md](Hash%20Table/73.%20Set%20Matrix%20Zeroes.md)
@@ -584,6 +729,10 @@ Each category contains problems and their solutions. Click on a section to expan
 - [239. Sliding Window Maximum.md](Heap%20(Priority%20Queue)/239.%20Sliding%20Window%20Maximum.md)
 - [264. Ugly Number II.md](Heap%20(Priority%20Queue)/264.%20Ugly%20Number%20II.md)
 - [295. Find Median from Data Stream.md](Heap%20(Priority%20Queue)/295.%20Find%20Median%20from%20Data%20Stream.md)
+- [347. Top K Frequent Elements.md](Heap%20(Priority%20Queue)/347.%20Top%20K%20Frequent%20Elements.md)
+- [355. Design Twitter.md](Heap%20(Priority%20Queue)/355.%20Design%20Twitter.md)
+- [373. Find K Pairs with Smallest Sums.md](Heap%20(Priority%20Queue)/373.%20Find%20K%20Pairs%20with%20Smallest%20Sums.md)
+- [378. Kth Smallest Element in a Sorted Matrix.md](Heap%20(Priority%20Queue)/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
 
 </details>
 
@@ -591,6 +740,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Interactive</strong></summary>
 
 - [278. First Bad Version.md](Interactive/278.%20First%20Bad%20Version.md)
+- [374. Guess Number Higher or Lower.md](Interactive/374.%20Guess%20Number%20Higher%20or%20Lower.md)
 
 </details>
 
@@ -599,6 +749,7 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [173. Binary Search Tree Iterator.md](Iterator/173.%20Binary%20Search%20Tree%20Iterator.md)
 - [284. Peeking Iterator.md](Iterator/284.%20Peeking%20Iterator.md)
+- [341. Flatten Nested List Iterator.md](Iterator/341.%20Flatten%20Nested%20List%20Iterator.md)
 
 </details>
 
@@ -606,6 +757,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Line Sweep</strong></summary>
 
 - [218. The Skyline Problem.md](Line%20Sweep/218.%20The%20Skyline%20Problem.md)
+- [391. Perfect Rectangle.md](Line%20Sweep/391.%20Perfect%20Rectangle.md)
 
 </details>
 
@@ -634,6 +786,9 @@ Each category contains problems and their solutions. Click on a section to expan
 - [237. Delete Node in a Linked List.md](Linked%20List/237.%20Delete%20Node%20in%20a%20Linked%20List.md)
 - [24. Swap Nodes in Pairs.md](Linked%20List/24.%20Swap%20Nodes%20in%20Pairs.md)
 - [25. Reverse Nodes in k-Group.md](Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.md)
+- [328. Odd Even Linked List.md](Linked%20List/328.%20Odd%20Even%20Linked%20List.md)
+- [355. Design Twitter.md](Linked%20List/355.%20Design%20Twitter.md)
+- [382. Linked List Random Node.md](Linked%20List/382.%20Linked%20List%20Random%20Node.md)
 - [61. Rotate List.md](Linked%20List/61.%20Rotate%20List.md)
 - [82. Remove Duplicates from Sorted List II.md](Linked%20List/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)
 - [83. Remove Duplicates from Sorted List.md](Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
@@ -672,6 +827,27 @@ Each category contains problems and their solutions. Click on a section to expan
 - [282. Expression Add Operators.md](Math/282.%20Expression%20Add%20Operators.md)
 - [29. Divide Two Integers.md](Math/29.%20Divide%20Two%20Integers.md)
 - [292. Nim Game.md](Math/292.%20Nim%20Game.md)
+- [313. Super Ugly Number.md](Math/313.%20Super%20Ugly%20Number.md)
+- [319. Bulb Switcher.md](Math/319.%20Bulb%20Switcher.md)
+- [326. Power of Three.md](Math/326.%20Power%20of%20Three.md)
+- [335. Self Crossing.md](Math/335.%20Self%20Crossing.md)
+- [342. Power of Four.md](Math/342.%20Power%20of%20Four.md)
+- [343. Integer Break.md](Math/343.%20Integer%20Break.md)
+- [357. Count Numbers with Unique Digits.md](Math/357.%20Count%20Numbers%20with%20Unique%20Digits.md)
+- [365. Water and Jug Problem.md](Math/365.%20Water%20and%20Jug%20Problem.md)
+- [367. Valid Perfect Square.md](Math/367.%20Valid%20Perfect%20Square.md)
+- [368. Largest Divisible Subset.md](Math/368.%20Largest%20Divisible%20Subset.md)
+- [371. Sum of Two Integers.md](Math/371.%20Sum%20of%20Two%20Integers.md)
+- [372. Super Pow.md](Math/372.%20Super%20Pow.md)
+- [375. Guess Number Higher or Lower II.md](Math/375.%20Guess%20Number%20Higher%20or%20Lower%20II.md)
+- [380. Insert Delete GetRandom O(1).md](Math/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed.md](Math/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md)
+- [382. Linked List Random Node.md](Math/382.%20Linked%20List%20Random%20Node.md)
+- [384. Shuffle an Array.md](Math/384.%20Shuffle%20an%20Array.md)
+- [390. Elimination Game.md](Math/390.%20Elimination%20Game.md)
+- [396. Rotate Function.md](Math/396.%20Rotate%20Function.md)
+- [398. Random Pick Index.md](Math/398.%20Random%20Pick%20Index.md)
+- [400. Nth Digit.md](Math/400.%20Nth%20Digit.md)
 - [43. Multiply Strings.md](Math/43.%20Multiply%20Strings.md)
 - [48. Rotate Image.md](Math/48.%20Rotate%20Image.md)
 - [50. Pow(x, n).md](Math/50.%20Pow(x,%20n).md)
@@ -698,8 +874,12 @@ Each category contains problems and their solutions. Click on a section to expan
 - [221. Maximal Square.md](Matrix/221.%20Maximal%20Square.md)
 - [240. Search a 2D Matrix II.md](Matrix/240.%20Search%20a%202D%20Matrix%20II.md)
 - [289. Game of Life.md](Matrix/289.%20Game%20of%20Life.md)
+- [304. Range Sum Query 2D - Immutable.md](Matrix/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)
+- [329. Longest Increasing Path in a Matrix.md](Matrix/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
 - [36. Valid Sudoku.md](Matrix/36.%20Valid%20Sudoku.md)
+- [363. Max Sum of Rectangle No Larger Than K.md](Matrix/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.md)
 - [37. Sudoku Solver.md](Matrix/37.%20Sudoku%20Solver.md)
+- [378. Kth Smallest Element in a Sorted Matrix.md](Matrix/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
 - [48. Rotate Image.md](Matrix/48.%20Rotate%20Image.md)
 - [54. Spiral Matrix.md](Matrix/54.%20Spiral%20Matrix.md)
 - [59. Spiral Matrix II.md](Matrix/59.%20Spiral%20Matrix%20II.md)
@@ -718,6 +898,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [139. Word Break.md](Memoization/139.%20Word%20Break.md)
 - [140. Word Break II.md](Memoization/140.%20Word%20Break%20II.md)
 - [241. Different Ways to Add Parentheses.md](Memoization/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
+- [329. Longest Increasing Path in a Matrix.md](Memoization/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
+- [397. Integer Replacement.md](Memoization/397.%20Integer%20Replacement.md)
 - [70. Climbing Stairs.md](Memoization/70.%20Climbing%20Stairs.md)
 
 </details>
@@ -727,6 +909,8 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [148. Sort List.md](Merge%20Sort/148.%20Sort%20List.md)
 - [23. Merge k Sorted Lists.md](Merge%20Sort/23.%20Merge%20k%20Sorted%20Lists.md)
+- [315. Count of Smaller Numbers After Self.md](Merge%20Sort/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [327. Count of Range Sum.md](Merge%20Sort/327.%20Count%20of%20Range%20Sum.md)
 
 </details>
 
@@ -740,6 +924,8 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Monotonic Stack</strong></summary>
 
+- [316. Remove Duplicate Letters.md](Monotonic%20Stack/316.%20Remove%20Duplicate%20Letters.md)
+- [321. Create Maximum Number.md](Monotonic%20Stack/321.%20Create%20Maximum%20Number.md)
 - [42. Trapping Rain Water.md](Monotonic%20Stack/42.%20Trapping%20Rain%20Water.md)
 - [84. Largest Rectangle in Histogram.md](Monotonic%20Stack/84.%20Largest%20Rectangle%20in%20Histogram.md)
 - [85. Maximal Rectangle.md](Monotonic%20Stack/85.%20Maximal%20Rectangle.md)
@@ -759,6 +945,10 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [218. The Skyline Problem.md](Ordered%20Set/218.%20The%20Skyline%20Problem.md)
 - [220. Contains Duplicate III.md](Ordered%20Set/220.%20Contains%20Duplicate%20III.md)
+- [315. Count of Smaller Numbers After Self.md](Ordered%20Set/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [327. Count of Range Sum.md](Ordered%20Set/327.%20Count%20of%20Range%20Sum.md)
+- [352. Data Stream as Disjoint Intervals.md](Ordered%20Set/352.%20Data%20Stream%20as%20Disjoint%20Intervals.md)
+- [363. Max Sum of Rectangle No Larger Than K.md](Ordered%20Set/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.md)
 
 </details>
 
@@ -767,6 +957,9 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [209. Minimum Size Subarray Sum.md](Prefix%20Sum/209.%20Minimum%20Size%20Subarray%20Sum.md)
 - [238. Product of Array Except Self.md](Prefix%20Sum/238.%20Product%20of%20Array%20Except%20Self.md)
+- [303. Range Sum Query - Immutable.md](Prefix%20Sum/303.%20Range%20Sum%20Query%20-%20Immutable.md)
+- [304. Range Sum Query 2D - Immutable.md](Prefix%20Sum/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)
+- [363. Max Sum of Rectangle No Larger Than K.md](Prefix%20Sum/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.md)
 
 </details>
 
@@ -776,6 +969,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [225. Implement Stack using Queues.md](Queue/225.%20Implement%20Stack%20using%20Queues.md)
 - [232. Implement Queue using Stacks.md](Queue/232.%20Implement%20Queue%20using%20Stacks.md)
 - [239. Sliding Window Maximum.md](Queue/239.%20Sliding%20Window%20Maximum.md)
+- [341. Flatten Nested List Iterator.md](Queue/341.%20Flatten%20Nested%20List%20Iterator.md)
+- [387. First Unique Character in a String.md](Queue/387.%20First%20Unique%20Character%20in%20a%20String.md)
 
 </details>
 
@@ -783,6 +978,8 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Quickselect</strong></summary>
 
 - [215. Kth Largest Element in an Array.md](Quickselect/215.%20Kth%20Largest%20Element%20in%20an%20Array.md)
+- [324. Wiggle Sort II.md](Quickselect/324.%20Wiggle%20Sort%20II.md)
+- [347. Top K Frequent Elements.md](Quickselect/347.%20Top%20K%20Frequent%20Elements.md)
 
 </details>
 
@@ -790,6 +987,17 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Radix Sort</strong></summary>
 
 - [164. Maximum Gap.md](Radix%20Sort/164.%20Maximum%20Gap.md)
+
+</details>
+
+<details>
+<summary><strong>Randomized</strong></summary>
+
+- [380. Insert Delete GetRandom O(1).md](Randomized/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+- [381. Insert Delete GetRandom O(1) - Duplicates allowed.md](Randomized/381.%20Insert%20Delete%20GetRandom%20O(1)%20-%20Duplicates%20allowed.md)
+- [382. Linked List Random Node.md](Randomized/382.%20Linked%20List%20Random%20Node.md)
+- [384. Shuffle an Array.md](Randomized/384.%20Shuffle%20an%20Array.md)
+- [398. Random Pick Index.md](Randomized/398.%20Random%20Pick%20Index.md)
 
 </details>
 
@@ -810,9 +1018,21 @@ Each category contains problems and their solutions. Click on a section to expan
 - [241. Different Ways to Add Parentheses.md](Recursion/241.%20Different%20Ways%20to%20Add%20Parentheses.md)
 - [25. Reverse Nodes in k-Group.md](Recursion/25.%20Reverse%20Nodes%20in%20k-Group.md)
 - [273. Integer to English Words.md](Recursion/273.%20Integer%20to%20English%20Words.md)
+- [326. Power of Three.md](Recursion/326.%20Power%20of%20Three.md)
+- [342. Power of Four.md](Recursion/342.%20Power%20of%20Four.md)
+- [390. Elimination Game.md](Recursion/390.%20Elimination%20Game.md)
+- [394. Decode String.md](Recursion/394.%20Decode%20String.md)
 - [44. Wildcard Matching.md](Recursion/44.%20Wildcard%20Matching.md)
 - [50. Pow(x, n).md](Recursion/50.%20Pow(x,%20n).md)
 - [60. Permutation Sequence.md](Recursion/60.%20Permutation%20Sequence.md)
+
+</details>
+
+<details>
+<summary><strong>Reservoir Sampling</strong></summary>
+
+- [382. Linked List Random Node.md](Reservoir%20Sampling/382.%20Linked%20List%20Random%20Node.md)
+- [398. Random Pick Index.md](Reservoir%20Sampling/398.%20Random%20Pick%20Index.md)
 
 </details>
 
@@ -828,6 +1048,9 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Segment Tree</strong></summary>
 
 - [218. The Skyline Problem.md](Segment%20Tree/218.%20The%20Skyline%20Problem.md)
+- [307. Range Sum Query - Mutable.md](Segment%20Tree/307.%20Range%20Sum%20Query%20-%20Mutable.md)
+- [315. Count of Smaller Numbers After Self.md](Segment%20Tree/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.md)
+- [327. Count of Range Sum.md](Segment%20Tree/327.%20Count%20of%20Range%20Sum.md)
 
 </details>
 
@@ -838,6 +1061,13 @@ Each category contains problems and their solutions. Click on a section to expan
 - [193. Valid Phone Numbers.md](Shell/193.%20Valid%20Phone%20Numbers.md)
 - [194. Transpose File.md](Shell/194.%20Transpose%20File.md)
 - [195. Tenth Line.md](Shell/195.%20Tenth%20Line.md)
+
+</details>
+
+<details>
+<summary><strong>Shortest Path</strong></summary>
+
+- [399. Evaluate Division.md](Shortest%20Path/399.%20Evaluate%20Division.md)
 
 </details>
 
@@ -864,6 +1094,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [239. Sliding Window Maximum.md](Sliding%20Window/239.%20Sliding%20Window%20Maximum.md)
 - [3. Longest Substring Without Repeating Characters.md](Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](Sliding%20Window/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
+- [395. Longest Substring with At Least K Repeating Characters.md](Sliding%20Window/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)
 - [76. Minimum Window Substring.md](Sliding%20Window/76.%20Minimum%20Window%20Substring.md)
 
 </details>
@@ -887,6 +1118,14 @@ Each category contains problems and their solutions. Click on a section to expan
 - [268. Missing Number.md](Sorting/268.%20Missing%20Number.md)
 - [274. H-Index.md](Sorting/274.%20H-Index.md)
 - [295. Find Median from Data Stream.md](Sorting/295.%20Find%20Median%20from%20Data%20Stream.md)
+- [324. Wiggle Sort II.md](Sorting/324.%20Wiggle%20Sort%20II.md)
+- [347. Top K Frequent Elements.md](Sorting/347.%20Top%20K%20Frequent%20Elements.md)
+- [349. Intersection of Two Arrays.md](Sorting/349.%20Intersection%20of%20Two%20Arrays.md)
+- [350. Intersection of Two Arrays II.md](Sorting/350.%20Intersection%20of%20Two%20Arrays%20II.md)
+- [354. Russian Doll Envelopes.md](Sorting/354.%20Russian%20Doll%20Envelopes.md)
+- [368. Largest Divisible Subset.md](Sorting/368.%20Largest%20Divisible%20Subset.md)
+- [378. Kth Smallest Element in a Sorted Matrix.md](Sorting/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
+- [389. Find the Difference.md](Sorting/389.%20Find%20the%20Difference.md)
 - [47. Permutations II.md](Sorting/47.%20Permutations%20II.md)
 - [49. Group Anagrams.md](Sorting/49.%20Group%20Anagrams.md)
 - [56. Merge Intervals.md](Sorting/56.%20Merge%20Intervals.md)
@@ -911,7 +1150,14 @@ Each category contains problems and their solutions. Click on a section to expan
 - [227. Basic Calculator II.md](Stack/227.%20Basic%20Calculator%20II.md)
 - [232. Implement Queue using Stacks.md](Stack/232.%20Implement%20Queue%20using%20Stacks.md)
 - [234. Palindrome Linked List.md](Stack/234.%20Palindrome%20Linked%20List.md)
+- [316. Remove Duplicate Letters.md](Stack/316.%20Remove%20Duplicate%20Letters.md)
 - [32. Longest Valid Parentheses.md](Stack/32.%20Longest%20Valid%20Parentheses.md)
+- [321. Create Maximum Number.md](Stack/321.%20Create%20Maximum%20Number.md)
+- [331. Verify Preorder Serialization of a Binary Tree.md](Stack/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md)
+- [341. Flatten Nested List Iterator.md](Stack/341.%20Flatten%20Nested%20List%20Iterator.md)
+- [385. Mini Parser.md](Stack/385.%20Mini%20Parser.md)
+- [388. Longest Absolute File Path.md](Stack/388.%20Longest%20Absolute%20File%20Path.md)
+- [394. Decode String.md](Stack/394.%20Decode%20String.md)
 - [42. Trapping Rain Water.md](Stack/42.%20Trapping%20Rain%20Water.md)
 - [71. Simplify Path.md](Stack/71.%20Simplify%20Path.md)
 - [84. Largest Rectangle in Histogram.md](Stack/84.%20Largest%20Rectangle%20in%20Histogram.md)
@@ -963,8 +1209,25 @@ Each category contains problems and their solutions. Click on a section to expan
 - [299. Bulls and Cows.md](String/299.%20Bulls%20and%20Cows.md)
 - [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [30. Substring with Concatenation of All Words.md](String/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)
+- [301. Remove Invalid Parentheses.md](String/301.%20Remove%20Invalid%20Parentheses.md)
+- [306. Additive Number.md](String/306.%20Additive%20Number.md)
+- [316. Remove Duplicate Letters.md](String/316.%20Remove%20Duplicate%20Letters.md)
+- [318. Maximum Product of Word Lengths.md](String/318.%20Maximum%20Product%20of%20Word%20Lengths.md)
 - [32. Longest Valid Parentheses.md](String/32.%20Longest%20Valid%20Parentheses.md)
+- [331. Verify Preorder Serialization of a Binary Tree.md](String/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md)
+- [336. Palindrome Pairs.md](String/336.%20Palindrome%20Pairs.md)
+- [344. Reverse String.md](String/344.%20Reverse%20String.md)
+- [345. Reverse Vowels of a String.md](String/345.%20Reverse%20Vowels%20of%20a%20String.md)
 - [38. Count and Say.md](String/38.%20Count%20and%20Say.md)
+- [383. Ransom Note.md](String/383.%20Ransom%20Note.md)
+- [385. Mini Parser.md](String/385.%20Mini%20Parser.md)
+- [387. First Unique Character in a String.md](String/387.%20First%20Unique%20Character%20in%20a%20String.md)
+- [388. Longest Absolute File Path.md](String/388.%20Longest%20Absolute%20File%20Path.md)
+- [389. Find the Difference.md](String/389.%20Find%20the%20Difference.md)
+- [392. Is Subsequence.md](String/392.%20Is%20Subsequence.md)
+- [394. Decode String.md](String/394.%20Decode%20String.md)
+- [395. Longest Substring with At Least K Repeating Characters.md](String/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)
+- [399. Evaluate Division.md](String/399.%20Evaluate%20Division.md)
 - [43. Multiply Strings.md](String/43.%20Multiply%20Strings.md)
 - [44. Wildcard Matching.md](String/44.%20Wildcard%20Matching.md)
 - [49. Group Anagrams.md](String/49.%20Group%20Anagrams.md)
@@ -999,6 +1262,8 @@ Each category contains problems and their solutions. Click on a section to expan
 
 - [207. Course Schedule.md](Topological%20Sort/207.%20Course%20Schedule.md)
 - [210. Course Schedule II.md](Topological%20Sort/210.%20Course%20Schedule%20II.md)
+- [310. Minimum Height Trees.md](Topological%20Sort/310.%20Minimum%20Height%20Trees.md)
+- [329. Longest Increasing Path in a Matrix.md](Topological%20Sort/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
 
 </details>
 
@@ -1035,6 +1300,9 @@ Each category contains problems and their solutions. Click on a section to expan
 - [236. Lowest Common Ancestor of a Binary Tree.md](Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 - [257. Binary Tree Paths.md](Tree/257.%20Binary%20Tree%20Paths.md)
 - [297. Serialize and Deserialize Binary Tree.md](Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+- [331. Verify Preorder Serialization of a Binary Tree.md](Tree/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md)
+- [337. House Robber III.md](Tree/337.%20House%20Robber%20III.md)
+- [341. Flatten Nested List Iterator.md](Tree/341.%20Flatten%20Nested%20List%20Iterator.md)
 - [94. Binary Tree Inorder Traversal.md](Tree/94.%20Binary%20Tree%20Inorder%20Traversal.md)
 - [95. Unique Binary Search Trees II.md](Tree/95.%20Unique%20Binary%20Search%20Trees%20II.md)
 - [96. Unique Binary Search Trees.md](Tree/96.%20Unique%20Binary%20Search%20Trees.md)
@@ -1052,6 +1320,8 @@ Each category contains problems and their solutions. Click on a section to expan
 - [208. Implement Trie (Prefix Tree).md](Trie/208.%20Implement%20Trie%20(Prefix%20Tree).md)
 - [211. Design Add and Search Words Data Structure.md](Trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.md)
 - [212. Word Search II.md](Trie/212.%20Word%20Search%20II.md)
+- [336. Palindrome Pairs.md](Trie/336.%20Palindrome%20Pairs.md)
+- [386. Lexicographical Numbers.md](Trie/386.%20Lexicographical%20Numbers.md)
 
 </details>
 
@@ -1082,6 +1352,12 @@ Each category contains problems and their solutions. Click on a section to expan
 - [287. Find the Duplicate Number.md](Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.md)
 - [295. Find Median from Data Stream.md](Two%20Pointers/295.%20Find%20Median%20from%20Data%20Stream.md)
 - [31. Next Permutation.md](Two%20Pointers/31.%20Next%20Permutation.md)
+- [321. Create Maximum Number.md](Two%20Pointers/321.%20Create%20Maximum%20Number.md)
+- [344. Reverse String.md](Two%20Pointers/344.%20Reverse%20String.md)
+- [345. Reverse Vowels of a String.md](Two%20Pointers/345.%20Reverse%20Vowels%20of%20a%20String.md)
+- [349. Intersection of Two Arrays.md](Two%20Pointers/349.%20Intersection%20of%20Two%20Arrays.md)
+- [350. Intersection of Two Arrays II.md](Two%20Pointers/350.%20Intersection%20of%20Two%20Arrays%20II.md)
+- [392. Is Subsequence.md](Two%20Pointers/392.%20Is%20Subsequence.md)
 - [42. Trapping Rain Water.md](Two%20Pointers/42.%20Trapping%20Rain%20Water.md)
 - [5. Longest Palindromic Substring.md](Two%20Pointers/5.%20Longest%20Palindromic%20Substring.md)
 - [61. Rotate List.md](Two%20Pointers/61.%20Rotate%20List.md)
@@ -1099,6 +1375,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [128. Longest Consecutive Sequence.md](Union%20Find/128.%20Longest%20Consecutive%20Sequence.md)
 - [130. Surrounded Regions.md](Union%20Find/130.%20Surrounded%20Regions.md)
 - [200. Number of Islands.md](Union%20Find/200.%20Number%20of%20Islands.md)
+- [399. Evaluate Division.md](Union%20Find/399.%20Evaluate%20Division.md)
 
 </details>
 
