@@ -2900,6 +2900,7 @@ Each category contains problems and their solutions. Click on a section to expan
 - [1327. List the Products Ordered in a Period.md](Database/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md)
 - [1341. Movie Rating.md](Database/1341.%20Movie%20Rating.md)
 - [1378. Replace Employee ID With The Unique Identifier.md](Database/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)
+- [1393. Capital Gain or Loss.md](Database/1393.%20Capital%20Gain%20or%20Loss.md)
 - [1407. Top Travellers.md](Database/1407.%20Top%20Travellers.md)
 - [1484. Group Sold Products By The Date.md](Database/1484.%20Group%20Sold%20Products%20By%20The%20Date.md)
 - [1517. Find Users With Valid E-Mails.md](Database/1517.%20Find%20Users%20With%20Valid%20E-Mails.md)
